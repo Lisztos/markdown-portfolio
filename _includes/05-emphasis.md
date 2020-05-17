@@ -1,1 +1,6 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+## Description
+#### My Skills:
+- **Java**
+- *Ruby on Rails*
+- _**Duck Programming**_ 
+- Complaining about everything that doesnt work right away 
